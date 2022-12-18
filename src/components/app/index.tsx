@@ -1,4 +1,4 @@
-import { PageRouter } from "../PageRouter/PageRouter";
+import { PageRouter } from "../page-router";
 
 const App = () => {
   return <PageRouter />;
